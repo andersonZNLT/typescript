@@ -13,14 +13,14 @@ comando instalar liteServer:
 * npm install lite-server
 
 temos que criar o arquivo TSconfig
-*tsc --init
+* tsc --init
 
 -------
 Como usar:
 
 adicionamos a linha de comando abaixo dentro de scripts no arquivo package.json
-*"start": "lite-server"
-*para iniciar - npm start
+* "start": "lite-server"
+* para iniciar - npm start
 
 Vamos dar start na aplicação!
 criar um termninal exclusivo e rodar o comando:
